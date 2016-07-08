@@ -3,52 +3,11 @@
     <title><![CDATA[Antéblog]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2016-07-08T22:32:53+02:00</updated>
+    <updated>2016-06-24T21:43:19+02:00</updated>
     <id>/</id>
             <author>
             <name><![CDATA[Antoine]]></name>                    </author>
         <generator uri="http://sculpin.io/">Sculpin</generator>
-            <entry>
-            <title type="html"><![CDATA[Taïwan (Photos)]]></title>
-            <link href="/blog/2016/07/07/taiwan"/>
-            <updated>2016-07-07T00:00:00+02:00</updated>
-            <id>/blog/2016/07/07/taiwan</id>
-            <content type="html"><![CDATA[<p>Une semaine en mai passé à Taïwan.</p>
-
-<p><img src="/images/photos/IMG_20160524_165212.jpg" alt="montagne" title="" class="img-responsive" /><br />
-Une montagne en contre jour près de Hualien.</p>
-
-<p><img src="/images/photos/IMG_20160524_165738.jpg" alt="jiufen" title="" class="img-responsive" /><br />
-Une rue de Jiufen la nuit.</p>
-
-<p><img src="/images/photos/IMG_20160526_131523.jpg" alt="jiujen" title="" class="img-responsive" /><br />
-Jiufen, ancienne cité orifère construite à flanc de montagne.</p>
-
-<p><img src="/images/photos/IMG_20160526_140619.jpg" alt="jiujen" title="" class="img-responsive" /><br />
-Jiufen la nuit.</p>
-
-<p><img src="/images/photos/IMG_20160524_165953.jpg" alt="fleur" title="" class="img-responsive" /><br />
-Une fleur, aperçue sur le chemin vers mukumuyu.</p>
-
-<p><img src="/images/photos/IMG_20160524_171434.jpg" alt="saucisse" title="" class="img-responsive" /><br />
-Des saucisses à l'encre de sèche.</p>
-
-<p><img src="/images/photos/IMG_20160526_132026.jpg" alt="théatre" title="" class="img-responsive" /><br />
-Le théatre national à Taipei.</p>
-
-<p><img src="/images/photos/IMG_20160528_001129.jpg" alt="taroko" title="" class="img-responsive" /><br />
-Un temple sur le chemin des gorges de Taroko.</p>
-
-<p><img src="/images/photos/IMG_20160524_191445.jpg" alt="taiwan" title="" class="img-responsive" /><br />
-Un ancien quartier marchant à Taipei.</p>
-
-<p><img src="/images/photos/IMG_20160528_002437.jpg" alt="hualien" title="" class="img-responsive" /><br />
-Une sulpture sur le port de pèche de Hualien.</p>
-
-<p><img src="/images/photos/IMG_20160526_211747.jpg" alt="légume" title="" class="img-responsive" /><br />
-Un légume étrange qui, une fois pressé, donne un jus doux et sucré.</p>
-]]></content>
-        </entry>
             <entry>
             <title type="html"><![CDATA[Premier post]]></title>
             <link href="/blog/2016/06/10/debut"/>
