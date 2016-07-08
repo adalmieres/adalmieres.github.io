@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Antéblog]]></title>
-    <link href="/atom.xml" rel="self"/>
+    <link href="/blog/tags/taiwan.xml" rel="self"/>
     <link href="/"/>
     <updated>2016-07-08T22:32:53+02:00</updated>
     <id>/</id>
@@ -47,20 +47,6 @@ Une sulpture sur le port de pèche de Hualien.</p>
 
 <p><img src="/images/photos/IMG_20160526_211747.jpg" alt="légume" title="" class="img-responsive" /><br />
 Un légume étrange qui, une fois pressé, donne un jus doux et sucré.</p>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[Premier post]]></title>
-            <link href="/blog/2016/06/10/debut"/>
-            <updated>2016-06-10T00:00:00+02:00</updated>
-            <id>/blog/2016/06/10/debut</id>
-            <content type="html"><![CDATA[<h3 id="faut-tout-recommencer.">Faut tout recommencer.</h3>
-
-<p>Trouver des idées de trucs à écrire. Des trucs sérieux de préférence.</p>
-
-<p>Donc je promet rien, mais je vais essayer de dicuter de sujets sérieux, des découvertes qui méritent mieux qu'un tweet.</p>
-
-<p>En parlant twitter, vous avez le miens en bas de la page.</p>
 ]]></content>
         </entry>
     </feed>
